@@ -1,7 +1,0 @@
-voila
-numpy
-ipywidgets
-pandas
-sklearn
-plotly
-IPython
